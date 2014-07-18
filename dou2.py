@@ -172,7 +172,7 @@ except Exception:
     raw_input('')
 else:
     print '#'*20 + u'下载完成' + '#'*20
-    print u'程序采集已经结束感谢您的使用!'+'网站:http://Douban.miaowu.asia'
+    print u'程序采集已经结束感谢您的使用!'+u'网站:http://Douban.miaowu.asia'
     print '#'*20 + u'程序结束' + '#'*20
     print u'按回车结束程序:',
     JS = raw_input('')
